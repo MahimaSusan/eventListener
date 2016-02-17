@@ -6,7 +6,7 @@ for (var i = 0; i < items.length; i++) {
 }
 
 function doSomething(e) {
-    this.style.backgroundColor = "yellow";
+    this.style.backgroundColor = "grey";
     alert(e.currentTarget.id);
     this.style.backgroundColor = '';
 }
