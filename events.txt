@@ -1,4 +1,5 @@
 Mouse Events
+
 > onclick
 > oncontextmenu    //rightclick
 > ondblclick
@@ -8,46 +9,92 @@ Mouse Events
 > onmousemove
 > onmouseover
 > onmouseout
+
+
+
 Keyboard Events
+
 > onkeydown
 > oonkeypress
 > onkeyup
+
+
+
 Frame / Object Events
+
 > onabort         //event occurs when the loading of a resource has been aborted 
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
+> onresize
+> onscroll
+> onunload
+> onerror         //event occurs while loading an external file
+> onhashchange
+> onload
+> onpageshow      //event occurs when user navigates to a webpage
+> onpagehide      //event occurs when user navigates away from a webpage
+
+
+
+Form Events
+
+> onblur          //event occurs when a user leaves a form field
+> onchange
+> onfocus         //event occurs when user puts the cursor in a form field
+> onselect
+> onsubmit
+> onreset         //form reset
+
+
+
+Drag Events
+
+> ondrag
+> ondragend
+> ondragenter      //event occurs when the dragged element enters the drop target
+> ondragleave
+> ondragover
+> ondragstart
+> ondrop
+
+
+
+ClipBoard Events
+
+> oncopy
+> oncut
+> onpaste
+
+
+
+Print events
+
+> onafterprint
+> onbeforeprint
+
+
+
+Media Events
+
+> onabort
+> onplay
+> onpause
+
+
+
+Animation Event
+
+> animationstart
+> animationend
+
+
+
+Transition Events
+
+> transitionend
+
+
+
+Server - Sent Events
+
+> onerror             //event occurs when an error occurs with the event resource
+> onmessage           //event occurs when a message is recieved through the event source
+> onopen              //event occurs when a connection with the event source is opened
