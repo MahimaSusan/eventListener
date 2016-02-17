@@ -3,9 +3,9 @@ x.addEventListener("click", myFunction);
 x.addEventListener("click", someOtherFunction);
 
 function myFunction() {
-    alert ("Hello World!");
+    alert("Hello World!");
 }
 
 function someOtherFunction() {
-    alert ("This function was also executed!");
+    alert("This function was also executed!");
 }

@@ -1,3 +1,3 @@
-window.addEventListener("resize",function(){
-	document.getElementById("demo").innerHTML ="abcd";
+window.addEventListener("resize", function() {
+    document.getElementById("demo").innerHTML = "abcd";
 });
