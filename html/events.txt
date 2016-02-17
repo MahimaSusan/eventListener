@@ -1,0 +1,53 @@
+Mouse Events
+> onclick
+> oncontextmenu    //rightclick
+> ondblclick
+> onmousedown
+> onmouseenter
+> onmouseleave
+> onmousemove
+> onmouseover
+> onmouseout
+Keyboard Events
+> onkeydown
+> oonkeypress
+> onkeyup
+Frame / Object Events
+> onabort         //event occurs when the loading of a resource has been aborted 
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
